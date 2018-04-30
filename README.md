@@ -6,7 +6,6 @@ hw 1:
 
 Write a program to implement perceptron learning algorithm. 
 Assume there are R inputs and S neurons in the neural network.  
-Verify the learning using data given below.
 
 hw 3:
 
